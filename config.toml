@@ -186,7 +186,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 By Jiyu"
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -196,10 +196,10 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
  weight = 3
 
 # Footer menu
-[[languages.en.menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
+#[[languages.en.menu.footer]]
+#name = "About"
+#URL = "about"
+#weight = 1
 
 [[languages.en.menu.footer]]
 name = "Project"
@@ -207,9 +207,19 @@ URL = "project"
 weight = 2
 
 [[languages.en.menu.footer]]
-name = "Service"
-URL = "service"
+name = "House buying"
+URL = "house-buying"
 weight = 3
+
+[[languages.en.menu.footer]]
+name = "Refurbishment"
+URL = "refurbishment"
+weight = 4
+
+[[languages.en.menu.footer]]
+name = "Maintainence"
+URL = "maintainence"
+weight = 5
 
 #[[languages.en.menu.footer]]
 #name = "Pricing"
