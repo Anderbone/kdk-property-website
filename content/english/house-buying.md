@@ -30,7 +30,7 @@ about:
  
 * Help to make your move the smoothest and painless experience possible
     "
-  image : "images/company/company-group-pic.jpg"
+  image : "images/company/HouseBuying4.jpg"
 
 
 ########################## featured service ############################

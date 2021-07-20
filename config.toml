@@ -70,7 +70,7 @@ Australia
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 [params.contact.form]
-enable = true
+enable = false
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
 use_netlify = true
 # Form action
@@ -85,8 +85,8 @@ success_image = "images/paper-plane.svg"
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "53.04435633242677"
+map_longitude = "-2.9826631288632837"
 map_marker = "images/marker.png"
 
 

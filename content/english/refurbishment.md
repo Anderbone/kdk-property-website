@@ -15,7 +15,7 @@ about:
   enable : true
   title : "Development/Refurbishment"
   content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. Our team of professional staff possess the capabilities, expertise and manpower to manage jobs from relatively small kitchen and bathroom fittings to complete refurbishments to extensions and developments."
-  image : "images/company/company-group-pic.jpg"
+  image : "images/company/plumbing.jpg"
 
 
 ########################## featured service ############################
