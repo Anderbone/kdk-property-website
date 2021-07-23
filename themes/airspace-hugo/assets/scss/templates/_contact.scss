@@ -85,7 +85,11 @@
     font-size: 25px;
   }
 }
-
+.qrcode{
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
 .google-map {
   position: relative;
 }

@@ -1,34 +1,34 @@
 ---
-title: "House Buying"
-description: "this is meta description"
+title: "房屋購買"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
 menu:
   main:
-    parent: "Services"
-    name: "House Buying"
+    parent: "服務"
+    name: "買房"
     weight: 1
 
 ########################### about service #############################
 about:
   enable : true
-  title : "House Buying"
-  content : "KDK provides a Bespoke House Buying Services to suit your exact needs. Once we confirm with your requirements , we will:
-  
-- Source on/off market properties  
+  title : "買房"
+  content : "KDK 提供定制的房屋購買服務，以滿足您的確切需求。一旦我們確認您的要求，我們將:
 
-- Advise on areas, compare and contrast different places  
+- 搜集市面上/場外的物業資料  
 
-* Research a street, village or town looking at crime, natural threats such as flooding and over flight paths  
+- 建議並劃定區域，比較和對比不同的區域
  
-* Negotiate with the seller and their agent  
+* 研究街道、村莊或城鎮，測定區域安全性、犯罪率，洪水等自然災害威胁和飛機航道的情況
  
-* Introduce the best mortgage brokers and lawyers  
+* 與賣方極其代理協商協議
  
-* Liaise with solicitors, valuers, surveyors and architects  
+* 介紹最好的按揭經紀人和律師
  
-* Help to make your move the smoothest and painless experience possible
+* 聯絡律師、估價師、測量師及建築師
+
+* 幫助您在遷居過程中獲得最平穩、最無麻烦的體驗
     "
   image : "images/company/HouseBuying4.jpg"
 
@@ -112,6 +112,6 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable : true
   # call to action content comes from "_index.md"
 ---

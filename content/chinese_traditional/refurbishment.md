@@ -1,20 +1,20 @@
 ---
-title: "Development/Refurbishment"
-description: "this is meta description"
+title: "擴建翻新"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
 menu:
   main:
-    parent: "Services"
-    name: "Refurbishment"
+    parent: "服務"
+    name: "擴建翻新"
     weight: 2
 
 ########################### about service #############################
 about:
   enable : true
-  title : "Development/Refurbishment"
-  content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. Our team of professional staff possess the capabilities, expertise and manpower to manage jobs from relatively small kitchen and bathroom fittings to complete refurbishments to extensions and developments."
+  title : "擴建翻新"
+  content : "KDK為各類住宅及商業規模的擴建和翻新提供服務。我們的專業團隊擁有能力、專業知識和人力來管理從相對較小的廚房和浴室設備到完成房屋的整體翻新，再到擴建和開發的工作"
   image : "images/company/plumbing.jpg"
 
 
@@ -97,6 +97,6 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable : true
   # call to action content comes from "_index.md"
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "我們的項目"
+description: ""
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
+    name: "項目"
     weight: 3
 ---

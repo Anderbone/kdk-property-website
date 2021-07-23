@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: "Home"
+    name: "主頁"
     weight: 1
 
 ############################### Banner ##############################
@@ -10,18 +10,19 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Not only a property agency"
-  content: "We love the work we do. We work closely with our clients to deliver the best possible solutions for their needs"
+  content: "我們熱愛我們所做的工作。我們與客戶密切合作，為需求提供最佳解決方案"
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "瀏覽我們完成的項目"
     link: "project"
 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "在過去的25年里，KDK已經幫助倫敦及周邊地區無數個人，家庭及企業組織實現—“尋找/購買， 管理/維護，擴建/翻新”他們的住宅和企業辦公樓。"
-  content: "在多年的更新變化和成長中， 我們從未放棄我們的創始原則和價值觀，誠實，透明，以確保為我們每一個客戶實現客戶最大價值化的， 可靠的優質服務。"
+  title: "關於我們"
+  description: ""
+  content: "在過去的25年里，KDK已經幫助**倫敦及周邊地區**無數個人，家庭及企業組織實現—“尋找/購買， 管理/維護，擴建/翻新”他們的住宅和企業辦公樓。</br>
+  在多年的更新變化和成長中， 我們從未放棄我們的創始原則和價值觀，誠實，透明，以確保為我們每一個客戶實現客戶最大價值化的， 可靠的優質服務。"
   image: "images/house.jpg"
 
 
@@ -54,11 +55,11 @@ service:
 cta:
   enable: false
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "讓我們開始一段愉快的旅程"
+  content: ""
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "告訴我們您的想法"
     link: "contact"
 
 ############################# Funfacts ###############################

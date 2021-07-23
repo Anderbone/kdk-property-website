@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/portfolio/ExteriorDecorationAndMaintenance2.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Exterior Decoration And Maintenance"
+category: "室外裝修維護"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

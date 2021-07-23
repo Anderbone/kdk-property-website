@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/portfolio/InteriorDecoration-bathroom2.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Interior Decoration"
+category: [ "室内裝修","浴室"]
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

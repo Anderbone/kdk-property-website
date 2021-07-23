@@ -1,20 +1,20 @@
 ---
-title: "Management/Maintainence"
-description: "this is meta description"
+title: "管理維護"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
 menu:
   main:
-    parent: "Services"
-    name: "Maintainence"
+    parent: "服務"
+    name: "管理維護"
     weight: 3
 
 ########################### about service #############################
 about:
   enable : true
-  title : "Management/Maintainence"
-  content : "KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied, to ensure all utilities - gas, water and electricity are in safe and working orders, and the property itself is in a secure and well kept condition."
+  title : "管理維護"
+  content : "KDK 提供“購後服務”，無論您的物業是否被清空或被占據，我們的員工都將為您服務，以確保所有公用設施---煤氣、水和電力都處於安全和正常的工作狀態，以及物業本身處於安全和良好的維護狀態。"
   image : "images/company/Development1.jpg"
 
 
@@ -97,6 +97,6 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable : true
   # call to action content comes from "_index.md"
 ---

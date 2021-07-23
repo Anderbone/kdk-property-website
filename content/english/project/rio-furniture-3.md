@@ -1,10 +1,11 @@
 ---
-title: "Decorationc1"
+title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/Decorationc1.jpg"
+image : "images/portfolio/ExteriorDecorationAndMaintenance6.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Decoration"
+category: [ "Exterior Decoration And Maintenance"]
+
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

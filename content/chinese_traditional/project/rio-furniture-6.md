@@ -2,9 +2,9 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/InteriorDecoration-bathroom2.jpg"
+image : "images/portfolio/ExteriorDecorationAndMaintenance4.jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "Exterior Decoration And Maintenance","bathroom"]
+category: [ "室外裝修維護"]
 
 information:
   - label : "Client"

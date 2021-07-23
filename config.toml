@@ -1,14 +1,14 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+title = "KDK Property Services"
 theme = "airspace-hugo"
 # Number of posts per page in list view
 paginate = "4"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
-disableLanguages = []
+disableLanguages = ["zh"]
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
@@ -61,14 +61,17 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # Address block
 phone = "+44 7783 880436"
 email = "info@kdkpropertyservices.co.uk"
-# location = """
-# **Themefisher**  
+# location = "aaa"
+image = "images/marker.png"
+# **Themefisher**
 # North Main Street  
 # Brooklyn, New South Wales  
 # Australia
 # """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
+
+
 [params.contact.form]
 enable = false
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
@@ -111,29 +114,29 @@ username = ""
 
 
 ################################# Social Media ################################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+#
+# [[params.social]]
+# icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+#
+# [[params.social]]
+# icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+#
+# [[params.social]]
+# icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+#
+# [[params.social]]
+# icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 
 ################################# Plugins #####################################
@@ -186,7 +189,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 By Jiyu"
+copyright = "Copyright &copy; 2021 By [Jiyu](https://yanjiyu.com)"
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -237,147 +240,6 @@ URL = "contact"
 weight = 6
 
 
-################################# French translation ##########################
-# [languages.fr]
-# languageName = "Français"
-# languageCode = "fr-FR"
-# contentDir = "content/french"
-# weight = 2
-# copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
-#
-# # Main menu
-# # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-# [[languages.fr.menu.main]]
-# hasChildren = true
-# weight = 5
-# name = "Plus"
-#
-# # Footer menu
-# [[languages.fr.menu.footer]]
-# name = "À propos"
-# URL = "about"
-# weight = 1
-#
-# [[languages.fr.menu.footer]]
-# name = "Projet"
-# URL = "project"
-# weight = 2
-#
-# [[languages.fr.menu.footer]]
-# name = "Service"
-# URL = "service"
-# weight = 3
-#
-# [[languages.fr.menu.footer]]
-# name = "Tarification"
-# URL = "pricing"
-# weight = 4
-#
-# [[languages.fr.menu.footer]]
-# name = "Questions fréquentes"
-# URL = "faq"
-# weight = 5
-#
-# [[languages.fr.menu.footer]]
-# name = "Contact"
-# URL = "contact"
-# weight = 6
-
-
-################################# Italian translation ##########################
-# [languages.it]
-# languageName = "Italiano"
-# languageCode = "it-IT"
-# contentDir = "content/italian"
-# weight = 2
-# copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
-#
-# # Main menu
-# # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-# [[languages.it.menu.main]]
-# hasChildren = true
-# weight = 5
-# name = "Più"
-#
-# # Footer menu
-# [[languages.it.menu.footer]]
-# name = "Chi siamo"
-# URL = "about"
-# weight = 1
-#
-# [[languages.it.menu.footer]]
-# name = "Progetto"
-# URL = "project"
-# weight = 2
-#
-# [[languages.it.menu.footer]]
-# name = "Servizio"
-# URL = "service"
-# weight = 3
-#
-# [[languages.it.menu.footer]]
-# name = "Tariffazione"
-# URL = "pricing"
-# weight = 4
-#
-# [[languages.it.menu.footer]]
-# name = "Domande frequenti"
-# URL = "faq"
-# weight = 5
-#
-# [[languages.it.menu.footer]]
-# name = "Contatta"
-# URL = "contact"
-# weight = 6
-
-#
-# ################################# German translation ##########################
-# [languages.de]
-# languageName = "Deutsch"
-# languageCode = "de-DE"
-# contentDir = "content/german"
-# weight = 3
-# copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
-#
-# # Main menu
-# # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-# [[languages.de.menu.main]]
-# hasChildren = true
-# name = "Mehr"
-# weight = 5
-#
-# # Footer menu
-# [[languages.de.menu.footer]]
-# name = "Über uns"
-# URL = "about"
-# weight = 1
-#
-# [[languages.de.menu.footer]]
-# name = "Projekt"
-# URL = "project"
-# weight = 2
-#
-# [[languages.de.menu.footer]]
-# name = "Dienstleistung"
-# URL = "service"
-# weight = 3
-#
-# [[languages.de.menu.footer]]
-# name = "Preise"
-# URL = "pricing"
-# weight = 4
-#
-# [[languages.de.menu.footer]]
-# name = "Häufige Fragen"
-# URL = "faq"
-# weight = 5
-#
-# [[languages.de.menu.footer]]
-# name = "Kontakt"
-# URL = "contact"
-# weight = 6
-
-
 ################################# Simplified Chinese translation ##########################
 [languages.zh]
 languageName = "简体中文"
@@ -390,7 +252,7 @@ copyright = "Copyright &copy; 2021 By Jiyu"
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
  [[languages.zh.menu.main]]
  hasChildren = true
- name = "Services"
+ name = "服務"
  weight = 3
 
 # Footer menu
@@ -437,18 +299,18 @@ weight = 6
 
 ################################# Traditional Chinese translation ##########################
 [languages.zhf]
-languageName = "繁體中文"
+languageName = "中文"
 languageCode = "zhf"
 contentDir = "content/chinese_traditional"
 weight = 2
-copyright = "Copyright &copy; 2021 By Jiyu"
+copyright = "Copyright &copy; 2021 By [Jiyu](https://yanjiyu.com)"
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
  [[languages.zhf.menu.main]]
  hasChildren = true
- name = "Services"
- weight = 3
+ name = "服務"
+ weight = 4
 
 # Footer menu
 #[[languages.zhf.menu.footer]]
@@ -457,7 +319,7 @@ copyright = "Copyright &copy; 2021 By Jiyu"
 #weight = 1
 
 [[languages.zhf.menu.footer]]
-name = "項目"
+name = "項目展示"
 URL = "project"
 weight = 2
 
@@ -467,12 +329,12 @@ URL = "house-buying"
 weight = 3
 
 [[languages.zhf.menu.footer]]
-name = "Refurbishment"
+name = "擴建翻新"
 URL = "refurbishment"
 weight = 4
 
 [[languages.zhf.menu.footer]]
-name = "Maintainence"
+name = "管理維護"
 URL = "maintainence"
 weight = 5
 
@@ -487,6 +349,6 @@ weight = 5
 #weight = 5
 
 [[languages.zhf.menu.footer]]
-name = "Contact"
+name = "聯係我們"
 URL = "contact"
 weight = 6

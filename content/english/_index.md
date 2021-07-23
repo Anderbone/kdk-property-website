@@ -54,11 +54,11 @@ service:
 cta:
   enable: false
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Let's start a delightful journey"
+  content: ""
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Tell Us Your ideas"
     link: "contact"
 
 ############################# Funfacts ###############################

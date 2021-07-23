@@ -1,6 +1,6 @@
 ---
 title: "Development/Refurbishment"
-description: "this is meta description"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
@@ -97,6 +97,6 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable : true
   # call to action content comes from "_index.md"
 ---

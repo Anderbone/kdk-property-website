@@ -1,6 +1,6 @@
 ---
 title: "House Buying"
-description: "this is meta description"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
@@ -10,12 +10,13 @@ menu:
     name: "House Buying"
     weight: 1
 
+
 ########################### about service #############################
 about:
   enable : true
   title : "House Buying"
   content : "KDK provides a Bespoke House Buying Services to suit your exact needs. Once we confirm with your requirements , we will:
-  
+
 - Source on/off market properties  
 
 - Advise on areas, compare and contrast different places  
@@ -31,7 +32,6 @@ about:
 * Help to make your move the smoothest and painless experience possible
     "
   image : "images/company/HouseBuying4.jpg"
-
 
 ########################## featured service ############################
 featured_service:
@@ -112,6 +112,7 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable : true
   # call to action content comes from "_index.md"
+
 ---
