@@ -12,8 +12,15 @@
         {{ with .content }}<div class="mt-30">{{ . | $.Page.RenderString (dict "display" "block") }}</div>{{ end }}
       </div>
       {{ with .image -}}
-      <div class="col-md-6">
-        <img class="img-responsive" src="{{ . | relURL }}">
+      <div class="col-md-3">
+        <img class="img-responsive" src="/images/company/maintain1.jpeg">
+        <!-- <img class="img-responsive" src="{{ . | relURL }}"> -->
+        <!-- <img class="img-responsive" src="/images/jiyuwhatsapp.png"> -->
+      </div>
+      <div class="col-md-3">
+        <img class="img-responsive" src="/images/company/plumbing.jpg">
+        <img class="img-responsive" src="/images/company/maintain2.jpeg">
+        <!-- <img class="img-responsive" src="/images/jiyuwhatsapp.png"> -->
       </div>
       {{- end }}
     </div>

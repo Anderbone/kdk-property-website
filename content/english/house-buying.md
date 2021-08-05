@@ -2,7 +2,7 @@
 title: "House Buying"
 description: ""
 bg_image: "images/feature-bg.jpg"
-layout: "service"
+layout: "service_house_buying"
 draft: false
 menu:
   main:
@@ -31,7 +31,7 @@ about:
  
 * Help to make your move the smoothest and painless experience possible
     "
-  image : "images/company/HouseBuying4.jpg"
+  image : "images/company/housebuying4.jpg"
 
 ########################## featured service ############################
 featured_service:

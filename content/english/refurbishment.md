@@ -2,7 +2,7 @@
 title: "Development/Refurbishment"
 description: ""
 bg_image: "images/feature-bg.jpg"
-layout: "service"
+layout: "service_deco"
 draft: false
 menu:
   main:

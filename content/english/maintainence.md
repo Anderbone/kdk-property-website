@@ -2,7 +2,7 @@
 title: "Management/Maintainence"
 description: ""
 bg_image: "images/feature-bg.jpg"
-layout: "service"
+layout: "service_maintain"
 draft: false
 menu:
   main:
