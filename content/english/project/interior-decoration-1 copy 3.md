@@ -1,13 +1,13 @@
 ---
-title: "Interior decoration"
+title: "Interior Decoration"
 description: ""
 draft: false
 image : "images/portfolio/Interior Decoration (3).jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "Interior decoration"]
+category: [ "Interior Decoration"]
 information:
   - label : "What We Did"
-    info : "Interior decoration"
+    info : "Interior Decoration"
 ---
 
 
