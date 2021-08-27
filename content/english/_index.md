@@ -27,16 +27,10 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: false
-  bg_image: "images/feature-bg.jpg"
+  enable: true
+  bg_image: "images/feature-bg2.jpg"
   title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  content: " You provide us with great ideas, and we will provide you with a reliable service to put them into action
   "
   button:
     enable: true
@@ -48,11 +42,32 @@ portfolio:
 service:
   enable: false
   # service content comes from "service.md" file
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "House Buying"
+      icon : "ion-home"
+      color : "primary"
+      content : "KDK provides a Bespoke House Buying Services to suit your exact needs. "
+
+    # featured service item loop
+    - name : "Development/Refurbishment"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. "
+
+    # featured service item loop
+    - name : "Management/Maintainence"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied"
 
 
 ############################ call to action ###########################
 cta:
-  enable: false
+  enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "Let's start a delightful journey"
   content: ""
