@@ -14,7 +14,7 @@ banner:
   button:
     enable: true
     label: "Discover Our Project"
-    link: "project"
+    link: "blog"
 
 ############################# About #################################
 about:
@@ -34,7 +34,7 @@ portfolio:
   "
   button:
     enable: true
-    label: "View Works"
+    label: "View Album"
     link: "project"
 
 
