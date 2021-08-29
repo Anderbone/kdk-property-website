@@ -15,7 +15,6 @@ Interior decoration  - decorate a 3 bedroom apartment in Canary Wharf in London
 Works include  - paint all ceilings, walls and woodwork, refresh bathroom and kitchen.
 
 
-**Frontage**
 
 ![test](/images/blog/blog-3%20(1).jpg)
 ![test](/images/blog/blog-3%20(2).jpg)
