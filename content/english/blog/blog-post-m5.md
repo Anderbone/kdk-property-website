@@ -16,7 +16,6 @@ Rear Extension  - erect a 5m x 7m extension to this terraced house in South Lond
 Works -  build extension, new wiring/plumbing, new flooring, install new kitchen, wall/floor units and decoration.
 
 
-**Frontage**
 
 
 ![test](/images/blog/blog-5%20(1).jpg)

@@ -16,7 +16,6 @@ Interior renovation  - renovate a 3 bedroom terraced house in Romford, East Lond
 Works include  - refurbish all walls, ceilings and woodwork, lay new laminate flooring, refurbish bathroom, kitchen and conservatory
 
 
-**Frontage**
 
 ![test](/images/blog/blog-4%20(1).jpg)
 ![test](/images/blog/blog-4%20(2).jpg)
