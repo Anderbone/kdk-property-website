@@ -1,10 +1,10 @@
 ---
-title: "Our Project"
+title: "Our Album"
 description: ""
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
-    weight: 3
+    name: "Album"
+    weight: 2
 ---

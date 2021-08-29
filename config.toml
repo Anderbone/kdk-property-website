@@ -4,7 +4,7 @@ baseURL = "http://examplesite.org"
 title = "KDK Property Services"
 theme = "airspace-hugo"
 # Number of posts per page in list view
-paginate = "4"
+paginate = "5"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
@@ -196,7 +196,7 @@ copyright = "info@kdkpropertyservices.co.uk /  +44 7783 880436 /  Copyright &cop
  [[languages.en.menu.main]]
  hasChildren = true
  name = "Services"
- weight = 3
+ weight = 4
 
 # Footer menu
 #[[languages.en.menu.footer]]
@@ -205,8 +205,13 @@ copyright = "info@kdkpropertyservices.co.uk /  +44 7783 880436 /  Copyright &cop
 #weight = 1
 
 [[languages.en.menu.footer]]
-name = "Project"
+name = "Album"
 URL = "project"
+weight = 1
+
+[[languages.en.menu.footer]]
+name = "Project"
+URL = "blog"
 weight = 2
 
 [[languages.en.menu.footer]]
