@@ -18,3 +18,19 @@
     background-attachment: scroll;
   }
 }
+
+.bg-3 {
+  background-size: cover;
+  background-position: center center;
+  // background-color: rgba(0,0,255,0.5);
+  background-attachment: fixed;
+  p {
+    // color: #8d8f92;
+    color: black;
+    margin-bottom: 20px;
+  }
+
+  @include tablet {
+    background-attachment: scroll;
+  }
+}

@@ -28,7 +28,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg2.jpg"
+  bg_image: "images/feature-bg2.png"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: " You provide us with great ideas, and we will provide you with a reliable service to put them into action
   "
