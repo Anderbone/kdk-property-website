@@ -308,7 +308,7 @@ languageName = "中文"
 languageCode = "zhf"
 contentDir = "content/chinese_traditional"
 weight = 2
-copyright = "Copyright &copy; 2021 By [Jiyu](https://yanjiyu.com)"
+copyright = "info@kdkpropertyservices.co.uk /  +44 7783 880436 /  Copyright &copy; 2021 By [Jiyu](https://yanjiyu.com)"
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -324,8 +324,14 @@ copyright = "Copyright &copy; 2021 By [Jiyu](https://yanjiyu.com)"
 #weight = 1
 
 [[languages.zhf.menu.footer]]
-name = "項目展示"
+name = "圖片庫"
 URL = "project"
+weight = 1
+
+
+[[languages.zhf.menu.footer]]
+name = "項目"
+URL = "blog"
 weight = 2
 
 [[languages.zhf.menu.footer]]

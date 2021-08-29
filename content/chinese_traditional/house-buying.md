@@ -2,7 +2,7 @@
 title: "房屋購買"
 description: ""
 bg_image: "images/feature-bg.jpg"
-layout: "service"
+layout: "service_house_buying"
 draft: false
 menu:
   main:

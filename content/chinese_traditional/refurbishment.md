@@ -2,7 +2,7 @@
 title: "擴建翻新"
 description: ""
 bg_image: "images/feature-bg.jpg"
-layout: "service"
+layout: "service_deco"
 draft: false
 menu:
   main:
@@ -31,6 +31,8 @@ about:
 - 屋顶替换
 
 - 整個房屋布線/管道
+
+
 
 我們將為您提供一個清晰、全面、透明的报价，除非項目範圍被修改，否則確定的報價不會改變。我們还將和您一起確定您需要的固定裝置和設備，以實現您想要的功能、裝修和風格，並將提供高標準的工程交付。"
   image : "images/company/plumbing.jpg"
