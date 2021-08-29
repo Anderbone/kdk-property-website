@@ -1,7 +1,7 @@
 ---
 title: "Replace Bathroom"
 description: ""
-draft: false
+draft: true
 image : "images/portfolio/Replace Bathroom (4).jpg"
 bg_image: "images/feature-bg.jpg"
 category: [ "Replace Bathroom"]

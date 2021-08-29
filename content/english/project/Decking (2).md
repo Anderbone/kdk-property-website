@@ -1,7 +1,7 @@
 ---
 title: "Decking"
 description: ""
-draft: false
+draft: true
 image : "images/portfolio/Decking (3).jpg"
 bg_image: "images/feature-bg.jpg"
 category: [ "Decking"]
