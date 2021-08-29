@@ -1,10 +1,10 @@
 ---
-title: "Interior decoration"
+title: "Decoration"
 date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-3-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Interior decoration"]
+categories: ["Decoration"]
 tags: ["Interior decoration"]
 description: ""
 draft: false

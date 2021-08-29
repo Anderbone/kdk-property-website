@@ -14,7 +14,31 @@ menu:
 about:
   enable : true
   title : "Development/Refurbishment"
-  content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. Our team of professional staff possess the capabilities, expertise and manpower to manage jobs from relatively small kitchen and bathroom fittings to complete refurbishments to extensions and developments."
+  content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. Our team of professional staff possess the capabilities, expertise and manpower to manage any requirements. 
+
+#### Works include:
+
+- Side/Rear Extension  
+  
+- Loft Conversion  
+
+- Kitchen Installation  
+
+- Bathroom Replacement
+
+- Entire House Renovation
+
+- Garage Conversion
+
+- Roof Replacement
+
+- Entire House Wiring/Plumbing
+
+
+We will provide you with a clear, comprehensive and transparent quote that will not change unless the scope of the project is revised. We will also work with you to specify the fixtures and fittings that you will need to achieve the functionality, finish and style that you want and the finishing will be delivered of high standards. 
+
+  
+  "
   image : "images/company/plumbing.jpg"
 
 
