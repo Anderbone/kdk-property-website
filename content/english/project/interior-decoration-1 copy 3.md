@@ -1,7 +1,7 @@
 ---
 title: "Interior Decoration"
 description: ""
-draft: false
+draft: true
 image : "images/portfolio/Interior Decoration (3).jpg"
 bg_image: "images/feature-bg.jpg"
 category: [ "Interior Decoration"]
