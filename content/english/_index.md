@@ -20,8 +20,11 @@ banner:
 about:
   enable: true
   title: "About Us"
-  description: "For over 25 years, KDKPS has helped countless people and organisations in and around London to Locate/Purchase, Manage/Maintain and Develop/Refurbish their homes and businesses. "
-  content: "Throughout all the years of change and growth we have not forgotten our founding principles of honesty and transparency to ensure we offer a reliable quality service that represents value for our clients."
+  description: ""
+  content: "
+  <p></p>
+  For over 25 years, KDKPS has helped countless people and organisations in and around London to Locate/Purchase, Manage/Maintain and Develop/Refurbish their homes and businesses. <p></p>
+  Throughout all the years of change and growth we have not forgotten our founding principles of honesty and transparency to ensure we offer a reliable quality service that represents value for our clients."
   image: "images/house.jpg"
 
 
@@ -62,7 +65,7 @@ featured_service:
     - name : "Management/Maintainence"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied"
+      content : "KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied."
 
 
 ############################ call to action ###########################
