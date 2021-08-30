@@ -1,13 +1,13 @@
 ---
-title: "Decking"
+title: "蓋板"
 description: ""
 draft: false
 image : "images/portfolio/Decking (1).jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "Decking"]
+category: [ "蓋板"]
 information:
   - label : "What We Did"
-    info : "Decking"
+    info : "蓋板"
 ---
 
 

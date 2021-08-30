@@ -1,18 +1,18 @@
 ---
-title: "Decoration"
+title: "裝修"
 date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-3-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Decoration"]
-tags: ["Interior decoration"]
+categories: ["裝修"]
+tags: ["裝修"]
 description: ""
 draft: false
 type: "post"
 ---
-Interior decoration  - decorate a 3 bedroom apartment in Canary Wharf in London 
+室內裝修——在倫敦金絲雀碼頭裝修一套三居室公寓
 
-Works include  - paint all ceilings, walls and woodwork, refresh bathroom and kitchen.
+作品包括 - 粉刷所有天花板、牆壁和木製品，翻新浴室和廚房。
 
 
 

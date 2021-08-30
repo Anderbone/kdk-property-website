@@ -1,22 +1,20 @@
 ---
-title: "Refurbishment"
+title: "整修"
 date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-1-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Refurbishment"]
-tags: ["refurbishment","frontage"]
+categories: ["整修"]
+tags: ["整修","房屋正面"]
 description: ""
 draft: false
 type: "post"
 ---
 
 
-Complete refurbishment - China Government's Building in Earls Court, London 
+全面翻新 - 倫敦伯爵宮中國政府大樓
 
-Works include  
-  - frontage refurbishment, rewire, interior decoration, fit new bathroom/toilet, refurbish all interior woodwork, fit new flooring/carpet, refresh roof and install decking at rear.
-
+工作包括：正面翻新、重新佈線、室內裝飾、安裝新浴室/廁所、翻新所有室內木製品、安裝新地板/地毯、翻新屋頂並在後部安裝甲板。
 
 ![test](/images/blog/blog-1%20(1).jpg)
 ![test](/images/blog/blog-1%20(2).jpg)

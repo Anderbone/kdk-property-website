@@ -1,13 +1,13 @@
 ---
-title: "Rear Extension"
+title: "後屋擴展"
 description: ""
 draft: false
 image : "images/portfolio/Rear Extension (4).jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "Rear Extension"]
+category: [ "後屋擴展"]
 information:
   - label : "What We Did"
-    info : "Rear Extension"
+    info : "後屋擴展"
 ---
 
 

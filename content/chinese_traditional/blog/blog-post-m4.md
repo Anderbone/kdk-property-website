@@ -1,19 +1,19 @@
 ---
-title: "Renovation"
+title: "翻新"
 date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-4-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Renovation"]
-tags: ["renovation"]
+categories: ["翻新"]
+tags: ["翻新"]
 description: ""
 draft: false
 type: "post"
 ---
 
-Interior renovation  - renovate a 3 bedroom terraced house in Romford, East London
+室內裝修 - 翻新東倫敦羅姆福德的 3 居室排屋
 
-Works include  - refurbish all walls, ceilings and woodwork, lay new laminate flooring, refurbish bathroom, kitchen and conservatory
+工程包括 - 翻新所有牆壁、天花板和木製品，鋪設新的強化木地板，翻新浴室、廚房和溫室
 
 
 

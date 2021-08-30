@@ -1,19 +1,19 @@
 ---
-title: "Reconstruction"
+title: "改建"
 date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-2-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Reconstruction"]
-tags: ["Reconstruction"]
+categories: ["改建"]
+tags: ["改建"]
 description: ""
 draft: false
 type: "post"
 ---
 
-Reconstruction  - Rebuild this 3 bedroom semi-detached house in Oxford. 
+重建 - 在牛津重建這座 3 居室半獨立式住宅。
 
-Works include  - new roof, rewiring, plumbing, new ceilings, walls, floors, kitchen, bathroom, bespoke wardrobes, heating and a new conservatory. 
+工程包括 - 新屋頂、重新佈線、管道、新天花板、牆壁、地板、廚房、浴室、定製衣櫃、暖氣和新溫室。
 
 ![test](/images/blog/blog-2%20(1).jpg)
 ![test](/images/blog/blog-2%20(2).jpg)

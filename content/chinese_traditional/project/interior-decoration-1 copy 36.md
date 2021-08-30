@@ -1,13 +1,13 @@
 ---
-title: "Interior Decoration"
+title: "室内裝修"
 description: ""
 draft: false
 image : "images/portfolio/Interior Decoration (36).jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "Interior Decoration"]
+category: [ "室内裝修"]
 information:
   - label : "What We Did"
-    info : "Interior Decoration"
+    info : "室内裝修"
 ---
 
 

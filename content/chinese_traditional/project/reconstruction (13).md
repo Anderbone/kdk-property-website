@@ -1,13 +1,13 @@
 ---
-title: "Reconstruction"
+title: "改建"
 description: ""
 draft: false
 image : "images/portfolio/Reconstruction (14).jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "Reconstruction"]
+category: [ "改建"]
 information:
   - label : "What We Did"
-    info : "Reconstruction"
+    info : "改建"
 ---
 
 
