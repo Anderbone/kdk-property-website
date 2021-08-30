@@ -13,8 +13,12 @@ menu:
 ########################### about service #############################
 about:
   enable : true
-  title : "Management/Maintainence"
-  content : "KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied, to ensure all utilities - gas, water and electricity are in safe and working orders, and the property itself is in a secure and well kept condition."
+  title : "Management / Maintainence"
+  content : "
+  
+  - KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied, to ensure all utilities - gas, water and electricity are in safe and working orders, and the property itself is in a secure and well kept condition.
+  
+  "
   image : "images/company/Development1.jpg"
 
 

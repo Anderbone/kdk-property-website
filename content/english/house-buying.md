@@ -15,7 +15,9 @@ menu:
 about:
   enable : true
   title : "House Buying"
-  content : "KDK provides a Bespoke House Buying Services to suit your exact needs. Once we confirm with your requirements , we will:
+  content : "
+- KDK provides a Bespoke House Buying Services to suit your exact needs. Once we confirm with your requirements , we will:
+<p></p>
 
 - Source on/off market properties  
 
@@ -28,7 +30,8 @@ about:
 * Introduce the best mortgage brokers and lawyers  
  
 * Liaise with solicitors, valuers, surveyors and architects  
- 
+ <p></p>
+
 * Help to make your move the smoothest and painless experience possible
     "
   image : "images/company/housebuying4.jpg"

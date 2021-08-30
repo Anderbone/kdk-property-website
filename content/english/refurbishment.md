@@ -13,10 +13,11 @@ menu:
 ########################### about service #############################
 about:
   enable : true
-  title : "Development/Refurbishment"
-  content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. Our team of professional staff possess the capabilities, expertise and manpower to manage any requirements. 
+  title : "Development / Refurbishment"
+  content : "
 
-#### Works include:
+- At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. Our team of professional staff possess the capabilities, expertise and manpower to manage any requirements. Works include:
+<p></p>
 
 - Side/Rear Extension  
   
@@ -33,12 +34,11 @@ about:
 - Roof Replacement
 
 - Entire House Wiring/Plumbing
+<p></p>
 
+- We will provide you with a clear, comprehensive and transparent quote that will not change unless the scope of the project is revised. We will also work with you to specify the fixtures and fittings that you will need to achieve the functionality, finish and style that you want and the finishing will be delivered of high standards. 
 
-We will provide you with a clear, comprehensive and transparent quote that will not change unless the scope of the project is revised. We will also work with you to specify the fixtures and fittings that you will need to achieve the functionality, finish and style that you want and the finishing will be delivered of high standards. 
-
-  
-  "
+"
   image : "images/company/plumbing.jpg"
 
 
