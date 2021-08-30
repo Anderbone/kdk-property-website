@@ -56,7 +56,7 @@ featured_service:
     - name : "擴建翻新"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "在KDK，我們服務於所有類型的住宅和商業規模的建設與翻新。我們的專業團隊擁專業的技能，專業知識及人力資源来服務管理任何需求。 "
+      content : "在KDK，我們服務於所有類型的住宅和商業規模的建設與翻新。我們的專業團隊擁專業的技能，專業知識及人力資源来服務管理任何需求"
 
     # featured service item loop
     - name : "管理維護"
