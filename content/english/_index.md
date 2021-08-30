@@ -53,19 +53,19 @@ featured_service:
     - name : "House Buying"
       icon : "ion-home"
       color : "primary"
-      content : "KDK provides a Bespoke House Buying Services to suit your exact needs. "
+      content : "<h4>KDK provides a Bespoke House Buying Services to suit your exact needs. </h4>"
 
     # featured service item loop
     - name : "Development/Refurbishment"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. "
+      content : "<h4>At KDK, we cater to all types of developments and refurbishments on a residential and commercial scale. </h4>"
 
     # featured service item loop
     - name : "Management/Maintainence"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied."
+      content : "<h4>KDK can provide a after purchase service where our staff will attend to your property whether it is emptied or occupied.</h4>"
 
 
 ############################ call to action ###########################
