@@ -14,7 +14,7 @@ banner:
   button:
     enable: true
     label: "瀏覽我們完成的項目"
-    link: "project"
+    link: "blog"
 
 ############################# About #################################
 about:
@@ -28,22 +28,14 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: false
-  bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
-  button:
     enable: true
-    label: "View Works"
-    link: "project"
-
+    bg_image: "images/feature-bg2.png"
+    title: "我們相信"
+    content: "告訴我們您的想法，我們會盡全力以可靠的服務將其實現"
+    button:
+        enable: true
+        label: "查看圖片庫"
+        link: "project"
 
 ############################# Service ############################
 service:
@@ -53,7 +45,7 @@ service:
 
 ############################ call to action ###########################
 cta:
-  enable: false
+  enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "讓我們開始一段愉快的旅程"
   content: ""
