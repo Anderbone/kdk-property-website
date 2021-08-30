@@ -59,7 +59,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "+44 7783 880436"
+phone = "WhatsApp +44 7783 880436"
 email = "info@kdkpropertyservices.co.uk"
 # location = "aaa"
 image = "images/marker.png"

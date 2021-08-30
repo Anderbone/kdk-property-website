@@ -4,7 +4,7 @@ date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-1-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Refurbishment"]
+# categories: ["Refurbishment"]
 tags: ["refurbishment","frontage"]
 description: ""
 draft: false

@@ -4,7 +4,7 @@ date: 2021-08-24T11:07:10+06:00
 author: Kelvin
 image : "images/blog/blog-5-bg.png"
 bg_image: "images/feature-bg7.jpg"
-categories: ["Rear Extension"]
+# categories: ["Rear Extension"]
 tags: ["Rear Extension"]
 description: ""
 draft: false
