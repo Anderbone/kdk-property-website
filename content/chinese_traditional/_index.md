@@ -42,6 +42,27 @@ service:
   enable: false
   # service content comes from "service.md" file
 
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "買房"
+      icon : "ion-home"
+      color : "primary"
+      content : "KDK 提供定制的房屋購買服務，以滿足您的確切需求 "
+
+    # featured service item loop
+    - name : "擴建翻新"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "在KDK，我們服務於所有類型的住宅和商業規模的建設與翻新。我們的專業團隊擁專業的技能，專業知識及人力資源来服務管理任何需求。 "
+
+    # featured service item loop
+    - name : "管理維護"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "KDK 提供“購後服務”，無論您的物業是否被清空或被占據，我們的員工都將為您服務"
 
 ############################ call to action ###########################
 cta:
