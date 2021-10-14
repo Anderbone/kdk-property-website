@@ -1,4 +1,5 @@
 # kdk property website
+A website for a property service.
 
 Website link: https://www.kdkpropertyservices.co.uk/   
 Based on https://github.com/themefisher/airspace-hugo
