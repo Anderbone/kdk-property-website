@@ -1,7 +1,7 @@
 # kdk property website
 A website for a property service.
 
-Website link: https://www.kdkpropertyservices.co.uk/   
+Website link: https://reverent-heisenberg-90f396.netlify.app/ 
 Based on https://github.com/themefisher/airspace-hugo
 
 ## Features
